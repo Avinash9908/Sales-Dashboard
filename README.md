@@ -18,4 +18,4 @@ A dynamic ,interactive data visualization tool built to explore the sales based 
  - Business impact & Insights
 
 5.Screenshot:
-url:
+url:https://github.com/Avinash9908/Sales-Dashboard/blob/main/snapshot%20of%20dashboard.png
